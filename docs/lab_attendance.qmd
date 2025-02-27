@@ -1,0 +1,7 @@
+---
+title: "Lab Attendance"
+author: Jake Matullo
+format: html
+#I've learned about how to create repositories more efficiently.
+---
+
